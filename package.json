@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "curl localhost:3333"
+    "test": "node curl localhost:3333",
+    "start" : "node app.js"
   },
   "repository": {
     "type": "git",
